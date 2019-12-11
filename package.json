@@ -1,5 +1,5 @@
 {
-  "name": "serverless-webpack",
+  "name": "serverless-webpack-typescript",
   "version": "5.3.1",
   "description": "Serverless plugin to bundle your javascript with Webpack",
   "main": "index.js",
